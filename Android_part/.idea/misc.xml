@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Code/Android-Develop/CameraAlbumTest/app/src/main/res/drawable/line.xml" value="0.3245" />
+        <entry key="..\:/Code/Android-Develop/CameraAlbumTest/app/src/main/res/drawable/rounded_corner.xml" value="0.3245" />
+        <entry key="..\:/Code/Android-Develop/CameraAlbumTest/app/src/main/res/layout/activity_gesture.xml" value="0.3614583333333333" />
+        <entry key="..\:/Code/Android-Develop/CameraAlbumTest/app/src/main/res/layout/activity_main.xml" value="0.2675324675324675" />
+        <entry key="..\:/Code/Android-Develop/CameraAlbumTest/app/src/main/res/layout/activity_main2.xml" value="0.3614583333333333" />
+        <entry key="..\:/Code/Android-Develop/CameraAlbumTest/app/src/main/res/layout/activity_welcome_page.xml" value="0.37135416666666665" />
+        <entry key="..\:/Code/Android-Develop/CameraAlbumTest/app/src/main/res/layout/dialog_save.xml" value="0.3614583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

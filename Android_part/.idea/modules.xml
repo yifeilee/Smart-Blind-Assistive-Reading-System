@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CameraAlbumTest.iml" filepath="$PROJECT_DIR$/.idea/modules/CameraAlbumTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CameraAlbumTest.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CameraAlbumTest.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CameraAlbumTest.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CameraAlbumTest.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CameraAlbumTest.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CameraAlbumTest.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CameraAlbumTest.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CameraAlbumTest.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/CameraAlbumTest.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/CameraAlbumTest.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/CameraAlbumTest.core.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/core/CameraAlbumTest.core.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/CameraAlbumTest.core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/CameraAlbumTest.core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/CameraAlbumTest.core.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/core/CameraAlbumTest.core.unitTest.iml" />
+    </modules>
+  </component>
+</project>

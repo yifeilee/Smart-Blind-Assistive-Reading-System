@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">指尖书香</string>
+    <string name="gesture_name">手势</string>
+    <string name="gestureTip">请在此处绘制相应的手势</string>
+    <string name="bn_save">保存</string>
+    <string name="bn_cancel">取消</string>
+
+</resources>
